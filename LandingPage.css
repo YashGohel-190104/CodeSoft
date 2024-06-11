@@ -34,5 +34,25 @@ img{
 }
 .text{
   position: absolute;
-  bottom: 5px;
+  bottom: 50px;
 }
+.footer{
+    background-color: palevioletred;
+}
+.card{
+    background-color: palevioletred;
+    width: 18rem; 
+    margin-top: 25px;
+}
+#card1{
+    margin-left: 200px;
+}
+#card2{
+    margin-left: 550px;
+    margin-top: -200px;
+}
+#card3{
+    margin-left: 900px;
+    margin-top: -200px;
+}
+
