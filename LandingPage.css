@@ -1,0 +1,38 @@
+i{
+    padding: 10px
+}
+#navbarSupportedContent{
+    margin-left: 150px;
+}
+.cm{
+    display: flex;
+    margin-right: 400px;
+}
+.call{
+    margin-right: 90px;
+}
+.bton{
+    margin-right: 50px;
+    border-radius: 500px;
+}
+#navbarNav{
+    margin-left: 350px;
+}
+form{
+    margin-left: 80px;
+}
+.btn{
+    margin-left: 20px;
+}
+img{
+    image-resolution: initial;
+    background-position: center;
+    background-size: cover;
+    width: 1550px;
+    height: 600px;
+    opacity: 0.5;
+}
+.text{
+  position: absolute;
+  bottom: 5px;
+}
