@@ -24,7 +24,8 @@ form{
 .btn{
     margin-left: 20px;
 }
-img{
+
+.img{
     image-resolution: initial;
     background-position: center;
     background-size: cover;
@@ -36,11 +37,7 @@ img{
   position: absolute;
   bottom: 50px;
 }
-.footer{
-    background-color: palevioletred;
-}
 .card{
-    background-color: palevioletred;
     width: 18rem; 
     margin-top: 25px;
 }
@@ -55,4 +52,15 @@ img{
     margin-left: 900px;
     margin-top: -200px;
 }
-
+.imgT{
+    margin-top: 50px;
+    margin-left: 1200px;
+    margin-bottom: 10px;
+    padding: 5px;
+    height: 250px;
+    width: 250px;
+}
+h1{
+    margin-left: 100px;
+    margin-bottom: 500px;
+}
