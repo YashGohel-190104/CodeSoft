@@ -1,3 +1,7 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
 i{
     padding: 10px
 }
@@ -57,10 +61,43 @@ form{
     margin-left: 1200px;
     margin-bottom: 10px;
     padding: 5px;
-    height: 250px;
+    height: 350px;
     width: 250px;
 }
-h1{
+.aboutText{
+    position: relative;
     margin-left: 100px;
-    margin-bottom: 500px;
+    margin-top: -350px;
+    white-space: nowrap;
+}
+.loText{
+    margin-top: -50px;
+    white-space: wrap;
+    position: relative;
+    text-overflow: none;
+    float: left;
+    font-display: initial;
+    width: 1000px;
+}
+.endFooter{
+    border: 2px solid white;
+    padding: 10px 10px 5px 10px;
+    height: 400px;
+    width: 100%;
+    margin-top: 350px;
+    background-color: black;
+    color: white;
+    display: flex;
+}
+ul{
+    list-style: none;
+    margin: 40px;    
+}
+li{
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    align-items: center;
+}
+form{
+    margin-top: 50px;
 }
