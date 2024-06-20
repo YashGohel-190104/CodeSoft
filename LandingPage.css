@@ -80,12 +80,12 @@ form{
     width: 1000px;
 }
 .endFooter{
-    border: 2px solid white;
+    /* border: 2px solid white; */
     padding: 10px 10px 5px 10px;
     height: 400px;
     width: 100%;
     margin-top: 350px;
-    background-color: black;
+    background-color: rgb(150, 120, 120);
     color: white;
     display: flex;
 }
