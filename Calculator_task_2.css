@@ -1,0 +1,31 @@
+*{
+   background-color: #025464;
+}
+#container{
+    /* border: 1px solid white; */
+    width: 400px;
+    height: 540px;
+    margin: auto;
+    margin-top: 100px;
+    padding: 15px;
+    background-color: transparent;
+    box-shadow: 4px 4px 3px 3px #F8F1F1;
+}
+input{
+    color: whitesmoke;
+    font-size: xx-large;
+}
+.inputT{
+    color: whitesmoke;
+    text-align: right;
+    height: 50px;
+    width: 380px;
+    box-shadow: 3px 3px 2px #F8F1F1;
+}
+.btn{
+    margin: 10px 24px 10px 10px;
+    height: 60px;
+    width: 60px;
+    border-radius: 40%;
+    box-shadow: 3px 3px 2px #F8F1F1;
+}
